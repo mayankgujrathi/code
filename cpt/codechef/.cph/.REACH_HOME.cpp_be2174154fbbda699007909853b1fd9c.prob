@@ -1,1 +1,0 @@
-{"name":"Local: REACH_HOME","url":"/home/mayank/.local/src/cp/cpt/codechef/REACH_HOME.cpp","tests":[{"id":1680152225363,"input":"4\n2 10\n3 17\n4 2\n6 45","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mayank/.local/src/cp/cpt/codechef/REACH_HOME.cpp","group":"local","local":true}
