@@ -1,0 +1,1 @@
+{"name":"Local: 4A","url":"/home/mayank/.local/src/cp/cpt/codeforces/4A.cpp","tests":[{"id":1678534041452,"input":"8","output":"YES"},{"id":1678534047163,"input":"9","output":"NO"},{"id":1678534410331,"input":"1","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mayank/.local/src/cp/cpt/codeforces/4A.cpp","group":"local","local":true}

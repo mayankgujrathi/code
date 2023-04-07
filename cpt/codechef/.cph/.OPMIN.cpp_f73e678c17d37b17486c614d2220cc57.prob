@@ -1,0 +1,1 @@
+{"name":"Local: OPMIN","url":"/home/mayank/.local/src/cp/cpt/codechef/OPMIN.cpp","tests":[{"id":1680156276011,"input":"3\n2\n1 2\n4\n2 2 3 4\n1\n1","output":"1\n2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mayank/.local/src/cp/cpt/codechef/OPMIN.cpp","group":"local","local":true}
